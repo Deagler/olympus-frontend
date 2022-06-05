@@ -6,7 +6,7 @@
 ![Statements Coverage Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/appleseed-iii/d630a3bd1cf13bb3dc3c1925df28efcd/raw/olympus-frontend__coverage__statements__heads_develop.json)
 ![Functions Coverage Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/appleseed-iii/d630a3bd1cf13bb3dc3c1925df28efcd/raw/olympus-frontend__coverage__functions__heads_develop.json)
 
-# [Ω Olympus Frontend](https://app.olympusdao.finance/) - gg
+# [Ω Olympus Frontend](https://app.olympusdao.finance/) - 
 This is the front-end repo for Olympus that allows users to be part of the future of _Meta Greece_.
 123123
 We are moving at web3 speed and we are looking for talented contributfffffffffffors to boost this rocket. Take a look at our [CONTRIBUTING GUIDE](CONTRIBUTING.md) if you are considering joining a world class DAO.
