@@ -9,7 +9,7 @@
 # [Ω Olympus Frontend](https://app.olympusdao.finance/) - gg
 This is the front-end repo for Olympus that allows users to be part of the future of _Meta Greece_.
 123123
-We are moving at web3 speed and we are looking for talented contributors to boost this rocket. Take a look at our [CONTRIBUTING GUIDE](CONTRIBUTING.md) if you are considering joining a world class DAO.
+We are moving at web3 speed and we are looking for talented contributfffffffffffors to boost this rocket. Take a look at our [CONTRIBUTING GUIDE](CONTRIBUTING.md) if you are considering joining a world class DAO.
 
 ## 🔧 Setting up Local Development
 
