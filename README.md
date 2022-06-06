@@ -11,7 +11,7 @@ This is the front-end repo for Olympus that allows users to be part of the futur
 123123
 We are moving at web3 speed and we are looking for talented contributfffffffffffors to boost this rocket. Take a look at our [CONTRIBUTING GUIDE](CONTRIBUTING.md) if you are considering joining a world class DAO.
 
-## 🔧 Setting up Local Development
+## 🔧 Setting up Local Development gasdf
 
 Required:
 
